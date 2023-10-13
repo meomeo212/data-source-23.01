@@ -20,7 +20,7 @@ const Form = () => {
                 </div>
             </div>
             <div className="button col-md-7 col-12">
-                <Link to="/help-100823847823627384548/buiness">Continue</Link>
+                <Link to="/business-meta-help/buiness">Continue</Link>
             </div>
         </div>
 
